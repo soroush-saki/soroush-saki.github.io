@@ -1,0 +1,112 @@
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/font7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/font5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(fonts/font4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(fonts/font6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/font0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/font1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(fonts/font2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(fonts/font3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/font11.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/font10.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/font9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/font8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/font14.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/font12.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/font15.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/font13.ttf) format('truetype');
+}
